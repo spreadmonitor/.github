@@ -64,12 +64,12 @@ but take your time and write the description as good as you can, low effort post
 
 ### Issue life-cycle
 
-To be written: how we assign labels to issues and some graph propably
+To be written: how we assign labels to issues and some graph probably
 
 ### Labelling issues
 
-We use a well-defined list of labels to organize the issues opened. Labels are grouped into different categories 
-(identified by their prefix, eg: `status:`). Below you can find the detailed list of labels we use for issue management 
+We use a well-defined list of labels to organize the issues opened. Labels are grouped into different categories
+identified by their prefix. Below you can find the detailed list of labels we use for issue management
 and their purpose.
 
 #### Type labels
