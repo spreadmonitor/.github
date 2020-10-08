@@ -20,6 +20,6 @@ By sending this PR to review I state it meets the following criteria:
 <!-- If there is no issue being resolved, open one before creating this pull request. -->
 <!-- If the PR doesn't fully resolve the issue, replace 'fixes' with 'references'. -->
 <!-- Example: fixes #[issue number], fixes #[issue number] -->
-fixes #[issue number]
+references #[issue number]
 
 [pr-guideline]: https://github.com/spreadmonitor/.github/blob/master/CONTRIBUTING.md
